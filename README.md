@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" border-radius="15px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
