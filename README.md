@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PHP and Python**
 
-- ⚡ Fun fact **I think I'm funny but most people think I'm not 😅**
+- ⚡ Fun fact: **I think I'm funny but most people think I'm not😅,Also a huge F1 🏎️ and Football fan⚽️**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">-->
