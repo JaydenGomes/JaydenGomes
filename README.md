@@ -1,16 +1,16 @@
-![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
+![MasterHead](https://automobilist.com/cdn/shop/collections/ATM_Collection_OracleRedBullRacing.jpg?v=1700837625&width=2048)
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="350" border-radius="15px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
 
-- 🔭 I’m currently working on **a React Project**
+- 🔭 I’m currently working on an ** F1 ANALYTICS PROJECT**
 
-- 🌱 I’m currently learning **React Native and Flask**
+- 🌱 I’m currently learning **Flutter** and exploring more about **Llms and Agents**
 
 - 💬 Ask me about **PHP and Python**
 
-- ⚡ Fun fact: **I think I'm funny but most people think I'm not😅**
+- ⚡ Fun fact: **I think I'm funny but most people think I'm not,but thats still up for a debate😅**
 
 - 🏓 Sport: **A huge F1 🏎️ and Football fan⚽️**
 
@@ -23,6 +23,17 @@
 
 
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydengomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydengomes&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydengomes&" alt="jaydengomes" style="display: block; margin: auto; max-width: 100%; height: auto; margin: 0; height: 50vh; display: flex; justify-content: center; align-items: center;"/>
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydengomes&theme=tokyonight&hide_border=true"/>
+</p>
+
 
