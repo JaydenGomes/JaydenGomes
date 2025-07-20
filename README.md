@@ -45,17 +45,13 @@
 
   <!-- Lovable (assuming "Lovable" is your internal or fictional tool - no official logo, using placeholder heart) -->
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Red_Heart.svg/1024px-Red_Heart.svg.png" alt="lovable" width="40" height="40"/>
+    <img src="https://yt3.googleusercontent.com/rhVHT5gAyVGRLJWAbsn2pjQLcpJF7pLBatfOezC8ld5Lk7cj-Q2vywOIFhSG88Vco--ut64l=s900-c-k-c0x00ffffff-no-rj" alt="lovable" width="40" height="40"/>
   </a>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="40" height="40"/>
-  </a>
 
   <!-- Gemini -->
   <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
-    <img src="https://yt3.googleusercontent.com/rhVHT5gAyVGRLJWAbsn2pjQLcpJF7pLBatfOezC8ld5Lk7cj-Q2vywOIFhSG88Vco--ut64l=s900-c-k-c0x00ffffff-no-rj" alt="gemini" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/759825266/f391c391-61e4-4e42-86e3-4a74dd27133e" alt="gemini" width="40" height="40"/>
   </a>
 
 </p>
