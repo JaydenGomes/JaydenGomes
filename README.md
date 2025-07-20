@@ -32,7 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaydengomes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydengomes&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
-
+## 🐍 Contribution Snake: Slithering Through Commits
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaydengomes/jaydengomes/output/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 ---
 
 ### 🔥 Contribution Streak
