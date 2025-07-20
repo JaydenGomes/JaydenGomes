@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" border-radius="15px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
 
-- 🔭 I’m currently working on an ** F1 ANALYTICS PROJECT**
+- 🔭 I’m currently working on an **F1 ANALYTICS PROJECT**
 
 - 🌱 I’m currently learning **Flutter** and exploring more about **Llms and Agents**
 
