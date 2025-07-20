@@ -29,6 +29,35 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydengomes&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
+
+
+
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: jaydengomes
+          outputs: |
+            dist/snake.svg?palette=github-dark
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
+      - run: git config user.name github-actions
+      - run: git config user.email github-actions@github.com
+      - run: git add dist/snake.svg
+      - run: git commit -m "Update contribution snake"
+      - run: git push
+
 ---
 
 ### 🔥 Contribution Streak
