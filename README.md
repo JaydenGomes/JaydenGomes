@@ -33,19 +33,10 @@
     <img src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="supabase" width="40" height="40"/>
   </a>
 
-  <!-- Slack -->
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/>
-  </a>
 
   <!-- Ollama -->
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="40" height="40"/>
-  </a>
-
-  <!-- Lovable (assuming "Lovable" is your internal or fictional tool - no official logo, using placeholder heart) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://yt3.googleusercontent.com/rhVHT5gAyVGRLJWAbsn2pjQLcpJF7pLBatfOezC8ld5Lk7cj-Q2vywOIFhSG88Vco--ut64l=s900-c-k-c0x00ffffff-no-rj" alt="lovable" width="40" height="40"/>
   </a>
 
 
