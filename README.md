@@ -4,16 +4,6 @@
 <img align="right" alt="Coding" width="350" border-radius="15px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
 
-- 🔭 I’m currently working on an **F1 ANALYTICS PROJECT**
-
-- 🌱 I’m currently learning **Flutter** and exploring more about **Llms and Agents**
-
-- 💬 Ask me about **PHP and Python**
-
-- ⚡ Fun fact: **I think I'm funny but most people think I'm not,but thats still up for a debate😅**
-
-- 🏓 Sport: **A huge F1 🏎️ and Football fan⚽️**
-
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">-->
 
